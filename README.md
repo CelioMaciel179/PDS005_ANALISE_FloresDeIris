@@ -1,4 +1,4 @@
-# Projeto Dta Science: Análise do Conjunto de Dados Iris 🌸🌺🌼
+# Projeto Data Science: Análise do Conjunto de Dados Iris 🌸🌺🌼
 
 ## Índice
 
